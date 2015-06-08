@@ -1,4 +1,4 @@
-# Place your app's docs here.
+# Barebone Chat App using volt.
 
 ## New to Volt?
 Be sure to read the volt docs at http://docs.voltframework.com
